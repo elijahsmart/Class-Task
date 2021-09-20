@@ -1,0 +1,77 @@
+
+body{
+	background-image: repeating-linear-gradient(green, pink, red);
+	background-repeat: no-repeat;
+}
+h1{
+	color: white;
+	font-size: 60px;
+	font-family: elephant;
+	font-weight: bold;
+	letter-spacing: 1cm;
+	text-align: center;
+}
+
+h2{
+	color: blue;
+	background-color: pink;
+	font-size: 70px;
+	font-family: algerial;
+	text-align: center;
+	border: 3px solid green;
+}
+
+
+.signupbox{
+	background-color: pink;
+	padding: 40px;
+	margin-top: 0px;
+	margin-left: 180px;
+	margin: 0 auto;
+	width: 380px;
+}
+
+form{
+	margin-top: -10
+	text-align:center;
+	width: 450px;
+}
+
+input{
+	width: 300px;
+	text-align: center;
+	background: transparent;
+	border: none;
+	border-bottom: 3px solid green;
+	font-size: 25px;
+	font-weight: 500px;
+	height: 35px;
+	color: red;
+}
+
+::placeholder{
+	color: violet;
+}
+
+button:hover{
+	color: yellow;
+	background: black;
+}
+
+
+button{
+	width: 200px;
+	border: none;
+	border-radius: 100px;
+	padding: 15px 0;
+	font-size20px;
+	color: red;
+	font-size: 20px;
+}
+
+#container{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	background-color: pink;
+}

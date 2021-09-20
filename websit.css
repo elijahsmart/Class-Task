@@ -1,0 +1,48 @@
+
+body{
+background-image: radial-gradient(circle, pink 0%, blue 50%);
+}
+
+h1{
+	font-family: elephant;
+	font-size: 5em;
+	color: yellow;
+	text-align: center; 
+	border-bottom: 5px solid silver;
+	margin-bottom: 5px;
+
+	font-size: 72px;
+	background: -webkit-linear-gradient(green 50%,red 60%);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;	 
+}
+
+.container{
+	text-align: center;
+	margin-top: 5px;
+	color: tomato;
+	font-size: 2em;
+	
+}
+
+input{
+	border: 3px solid yellow;
+	height: 2em;
+	width: 13em;
+	background-image: radial-gradient(circle, blue 20%, violet 20%);
+	font-size: 30px;
+
+}
+::placeholder{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+}
+
+
+font-size: 72px;
+	background: -webkit-linear-gradient(blue 20%,red 60%,pink 100%);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+
+	background-image: radial-gradient(circle, red 0%, blue 100%);

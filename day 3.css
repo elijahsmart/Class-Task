@@ -1,0 +1,77 @@
+
+
+ body{
+ 	border:solid;
+ 	font-size: 1em;
+ 	color: red;
+ 	background-image: url(EKS.jpg);
+ 	background-repeat: none;
+ 	border:dotted;
+ 	border-width: 20px;
+ }
+
+ .pic{
+ 	width: 180px;
+ 	height: 180px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: red;
+     border-radius: 90px;
+     }
+
+h1{
+	color: white;
+	font-size: 50px;
+	font-family: bodonil mt;
+	background-color: lightgreen;
+	text-align: center;
+	position: sticky;
+	top: 0;
+	z-index: 30;
+
+}
+
+h2{
+  
+    font-size: 72px;
+	background: -webkit-linear-gradient(blue 40%,yellow 60%,green 70%);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	font-size: 50px;
+	font-family: bodonil mt;
+	text-align: center;
+}
+
+p{
+	font-size: 1.5em;
+	font-family: bell mt;
+	background-image: url(course.jpg); 
+	background-repeat: cover;
+	height: 110px;
+	border:solid;
+	background-color: pink;
+	color: blue;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+h3{
+	color:red;
+	background-color: lightblue;
+	font-family: calibri;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.container{
+	color: red;
+	background-image: url(class.png);
+}
+
+.second-container{
+	color:orange;
+}
+
+
+
